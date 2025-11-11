@@ -35,7 +35,7 @@ git push -u origin main
 # En PowerShell, desde la carpeta del proyecto:
 
 # 1. Agregar remoto (CAMBIA TU_USUARIO por tu usuario real)
-git remote add origin https://github.com/TU_USUARIO/batalla-heroes.git
+git remote add origin https://github.com/Axy-sys/batalla-heroes.git
 
 # 2. Verificar que se agregó correctamente
 git remote -v
