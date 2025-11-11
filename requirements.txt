@@ -1,0 +1,2 @@
+# Batalla de Héroes - Dependencias
+pygame>=2.5.0
