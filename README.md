@@ -30,18 +30,6 @@ Arquitectura profesional con patrones de diseño:
 python game_main.py
 ```
 
-### Opción 2: Versión GUI Monolítica
-
-```bash
-python batalla_heroes_gui.py
-```
-
-### Opción 3: Versión Consola
-
-```bash
-python batalla_heroes.py
-```
-
 ---
 
 ## 📁 Estructura del Proyecto
@@ -55,15 +43,6 @@ Datos/
 ├── ui_components.py      # 🎨 Componentes UI (View)
 ├── game_screens.py       # 🖼️ Pantallas (Controller)
 └── ARQUITECTURA_MODULAR.md # 📖 Documentación arquitectura
-```
-
-### **Versiones Legacy**
-
-```
-├── batalla_heroes.py     # 💻 Versión consola
-├── batalla_heroes_gui.py # 🎨 Versión GUI monolítica
-├── config.py             # ⚙️ Configuración GUI
-└── pruebas_automatizadas.py # 🧪 Tests
 ```
 
 ---
@@ -150,12 +129,6 @@ Datos/
 ✅ **D** - Dependency Inversion: Depender de abstracciones  
 
 ---
-
-## 🧪 Ejecutar Tests
-
-```bash
-python pruebas_automatizadas.py
-```
 
 ---
 
@@ -259,7 +232,6 @@ Este proyecto es de código abierto para fines educativos (MIT License).
 ✅ Código limpio y mantenible  
 ✅ UI/UX de calidad  
 
-**¡Perfecto para portfolio profesional!** 🚀💼
 
 ---
 
