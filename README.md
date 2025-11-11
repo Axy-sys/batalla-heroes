@@ -1,5 +1,11 @@
 # ⚔️ Batalla de Héroes - Videojuego de Combate
 
+#Team:
+
+##David Gutiérrez Flórez
+##Juan Duran Portnoy
+##Juan Narvaez David
+
 ## 📖 Descripción
 
 "Batalla de Héroes" es un videojuego de combate por turnos donde varios héroes compiten en una arena mágica. El juego utiliza estructuras de datos enlazadas personalizadas para gestionar los héroes y el sistema de turnos.
