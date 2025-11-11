@@ -1,10 +1,10 @@
 # ⚔️ Batalla de Héroes - Videojuego de Combate
 
-#Team:
+# Team:
 
-##David Gutiérrez Flórez
-##Juan Duran Portnoy
-##Juan Narvaez David
+## David Gutiérrez Flórez
+## Juan Duran Portnoy
+## Juan Narvaez David
 
 ## 📖 Descripción
 
