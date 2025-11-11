@@ -16,21 +16,6 @@ Arquitectura profesional con patrones de diseño:
 - 🧪 Fácil de extender y mantener
 - 📊 Complejidad ciclomática: 2.0 (Excelente)
 
-### 2. 🎨 Versión GUI Monolítica (`batalla_heroes_gui.py`) v2.0
-Interfaz gráfica completa con Pygame:
-- 🎨 Diseño moderno con paleta de colores profesional
-- ✨ Animaciones fluidas y efectos de partículas
-- 📊 Estadísticas en tiempo real
-- 🎯 Sistema de pausa y control de ritmo
-- 💫 Efectos visuales (shake, flash, glow)
-- 🏆 Pantalla de resultados épica
-
-### 3. 💻 Versión Consola (`batalla_heroes.py`) v1.0
-Interfaz de texto interactiva:
-- 📝 Menús y mensajes explicativos
-- ⚡ Rápida y sin dependencias gráficas
-- 🎮 3 modos de juego
-
 ---
 
 ## 🚀 Inicio Rápido
